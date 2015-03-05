@@ -1,10 +1,7 @@
 ## Completed files for assignment
-R Scripts     Corresponding figure
-plot1.R       plot1.png
-plot2.R       plot2.png
-plot3.R       plot3.png
-plot4.R       plot4.png
 
+* <b>R Scripts</b>: plot1.R, plot2.R, plot3.R and plot4.R
+* <b>Image files for plots</b>: plot1.png, plot2.png, plot3.png and plot4.png 
 
 ## Introduction
 
